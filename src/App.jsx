@@ -4,7 +4,6 @@ import Avatar from './components/Avatar/Avatar'
 
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
@@ -18,3 +17,6 @@ function App() {
 }
 
 export default App
+
+
+
